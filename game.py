@@ -1,4 +1,4 @@
-print("Let's Learn our State Capitals!")
+print("Welcome to State Capitals Trivia!")
 
 print('Enter your name: ')
 user_name = input()
